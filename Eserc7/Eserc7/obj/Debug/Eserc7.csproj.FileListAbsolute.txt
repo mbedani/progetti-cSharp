@@ -1,0 +1,7 @@
+C:\Users\docentei\source\repos\Eserc7\Eserc7\bin\Debug\Eserc7.exe.config
+C:\Users\docentei\source\repos\Eserc7\Eserc7\bin\Debug\Eserc7.exe
+C:\Users\docentei\source\repos\Eserc7\Eserc7\bin\Debug\Eserc7.pdb
+C:\Users\docentei\source\repos\Eserc7\Eserc7\obj\Debug\Eserc7.csprojAssemblyReference.cache
+C:\Users\docentei\source\repos\Eserc7\Eserc7\obj\Debug\Eserc7.csproj.CoreCompileInputs.cache
+C:\Users\docentei\source\repos\Eserc7\Eserc7\obj\Debug\Eserc7.exe
+C:\Users\docentei\source\repos\Eserc7\Eserc7\obj\Debug\Eserc7.pdb
